@@ -1,4 +1,4 @@
-package learning_notes;
+package algorithms;
 
 import java.util.*;
 
