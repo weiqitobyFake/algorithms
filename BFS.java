@@ -2,11 +2,9 @@ package algorithm;
 
 import java.util.*;
 
-// BFS用于图上.
-// 一般这种问题, 常见的情况问是否在图上的两点上存在path之类的问题
-// 这种问题的解决办法: BFS
-// BFS的精髓就是在于要用Queue, 按层筛选.
-// BFS class列出了常见的两种BFS问题
+// BFS is frequently used in graph problem.
+// For the problem like to decide whether there is a path between two nodes, etc.
+// The key part of BFS is to use a queue.
 public class BFS {
 	
 	/***
