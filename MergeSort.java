@@ -1,4 +1,4 @@
-package learning_notes;
+package algorithms;
 
 public class MergeSort {
 	
