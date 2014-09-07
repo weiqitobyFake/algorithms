@@ -18,7 +18,7 @@ public class BFSWithOneQueue {
         
         while (!q.isEmpty()) {
             TreeNode curr = q.poll();
-            System.out.println(curr.val);
+            System.out.print(" " + curr.val);
             
             nodesInCurrentLevel--;
             
